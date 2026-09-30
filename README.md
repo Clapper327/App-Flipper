@@ -1,27 +1,18 @@
 # App Flipper
 
-Mirror the window you're using to another display. Flip the image horizontally or vertically, rotate it, or show it fullscreen.
+App Flipper shows a flipped or rotated copy of a Windows app window on another display.
 
 ## Features
 
-- Live preview of the active Windows app window on another display
-- Automatic tracking of the active window
-- Choose and pin a specific running window from the tray menu
-- Stable tray menu size when switching source windows
-- Horizontal and vertical flip
-- 90-degree rotation steps
-- Windowed and fullscreen output
-- System tray controls for display selection and app settings
-- Automatic update checks and downloads, with restart when you're ready
-- Reset flips, rotation, and fullscreen from the tray menu
+- Follow the active window automatically or choose a window to keep showing.
+- Show the output windowed or fullscreen on a selected display.
+- Flip horizontally or vertically, rotate in 90-degree steps, or reset the view.
+- Control the app and update settings from the system tray.
 
-## Usage
+## Use
 
-1. [Download AppFlipper.exe](https://github.com/Clapper327/App-Flipper/releases/latest/download/AppFlipper.exe).
-2. Run the downloaded file. The output window appears on the second display when available.
-3. Right-click the App Flipper tray icon. Open **Source window** to follow the active window or select a running window to pin.
-4. New versions are checked and downloaded in the background by default. Choose **Install Update and Restart** from the tray menu when you're ready, or turn off automatic updates in **Settings**.
-5. Use the tray menu to change the source window, flip or rotate the image, toggle fullscreen, or open settings. After selecting an option, the menu reopens next to the tray icon, including after a **Source window** selection. Choose **Reset View** to turn off both flips, rotation, and fullscreen; click outside the menu to close it.
-6. Double-click the tray icon to toggle fullscreen.
-
-Requires Windows 10 or later. Some protected video and system windows may not be capturable.
+1. Download `AppFlipper.exe` from the [latest release](https://github.com/Clapper327/App-Flipper/releases/latest) and run it.
+2. Right-click the App Flipper tray icon and open **Source window** to follow the active window or choose a specific window.
+3. Open **Settings** to select the output display and configure automatic update checks.
+4. Use **Fullscreen**, **Orientation**, and **Reset View** in the tray menu to control the output.
+5. When an update is available, choose **Install Update and Restart** from the tray menu.
