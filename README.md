@@ -7,6 +7,7 @@ Mirror the window you're using to another display. Flip the image horizontally o
 - Live preview of the active Windows app window on another display
 - Automatic tracking of the active window
 - Choose and pin a specific running window from the tray menu
+- Stable tray menu size when switching source windows
 - Horizontal and vertical flip
 - 90-degree rotation steps
 - Windowed and fullscreen output
