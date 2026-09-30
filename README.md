@@ -12,6 +12,7 @@ Mirror the window you're using to another display. Flip the image horizontally o
 - Windowed and fullscreen output
 - System tray controls for display selection and app settings
 - Automatic update checks and downloads, with restart when you're ready
+- Reset flips, rotation, and fullscreen from the tray menu
 
 ## Usage
 
@@ -19,7 +20,7 @@ Mirror the window you're using to another display. Flip the image horizontally o
 2. Run the downloaded file. The output window appears on the second display when available.
 3. Right-click the App Flipper tray icon. Open **Source window** to follow the active window or select a running window to pin.
 4. New versions are checked and downloaded in the background by default. Choose **Install Update and Restart** from the tray menu when you're ready, or turn off automatic updates in **Settings**.
-5. Use the tray menu to select a display, flip or rotate the image, or switch fullscreen on or off.
+5. Use the tray menu to flip or rotate the image and toggle fullscreen. The menu stays open when you change the view. Choose **Reset View** to turn off both flips, rotation, and fullscreen; click outside the menu to close it.
 6. Double-click the tray icon to toggle fullscreen.
 
 Requires Windows 10 or later. Some protected video and system windows may not be capturable.
