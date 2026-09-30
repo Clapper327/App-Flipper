@@ -11,13 +11,15 @@ Mirror the window you're using to another display. Flip the image horizontally o
 - 90-degree rotation steps
 - Windowed and fullscreen output
 - System tray controls for display selection and app settings
+- Automatic update checks and downloads, with restart when you're ready
 
 ## Usage
 
 1. [Download AppFlipper.exe](https://github.com/Clapper327/App-Flipper/releases/latest/download/AppFlipper.exe).
 2. Run the downloaded file. The output window appears on the second display when available.
 3. Right-click the App Flipper tray icon. Open **Source window** to follow the active window or select a running window to pin.
-4. Use the tray menu to select a display, flip or rotate the image, or switch fullscreen on or off.
-5. Double-click the tray icon to toggle fullscreen.
+4. New versions are checked and downloaded in the background by default. Choose **Install Update and Restart** from the tray menu when you're ready, or turn off automatic updates in **Settings**.
+5. Use the tray menu to select a display, flip or rotate the image, or switch fullscreen on or off.
+6. Double-click the tray icon to toggle fullscreen.
 
 Requires Windows 10 or later. Some protected video and system windows may not be capturable.
